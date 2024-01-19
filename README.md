@@ -39,5 +39,4 @@
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/file/VphDd8NciEumH7q2rRmLeF/Otzovik?type=design&node-id=0-1&mode=design&t=qouymqRCoCnZ7xoM-0)
 
 ## Backend
-URL here....
-<hr>
+[![FireBase](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png)](https://firebase.google.com)
